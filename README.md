@@ -172,8 +172,20 @@ The project helped us understand backend development, database integration, REST
 
 ## 11. Student Details
 
-- **Student Name:** Sai Rashmitha
-- **Registration Number:** 252U1R9056
+- **Student Names:**
+  1. Sai Rashmitha
+  2. Gnanasahitya Reddy
+  3. Sai Vinitha
+  4. Mahesh
+  5. Tejo Sai
+
+- **Registration Numbers:**
+  1. 252U1R9056
+  2. 252U1R9021
+  3. 252U1R9054
+  4. 252U1R9034
+  5. 252U1R9002
+
 - **Section:** CSE (Gen-AI) 2A
 - **Course:** Backend Development Fundamentals
 - **Academic Year:** II Year, Term II
@@ -182,4 +194,10 @@ The project helped us understand backend development, database integration, REST
 
 ## 12. Team Members
 
-Add the names and registration numbers of all group members here.
+The ClinicQ project was developed collaboratively by the following team members:
+
+1. **Sai Rashmitha** – 252U1R9056
+2. **Gnanasahitya Reddy** – 252U1R9021
+3. **Sai Vinitha** – 252U1R9054
+4. **Mahesh** – 252U1R9034
+5. **Tejo Sai** – 252U1R9002
